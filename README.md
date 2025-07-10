@@ -1,2 +1,2 @@
 # hello-world
-My first ever repository
+My first ever repository for my college class lol
